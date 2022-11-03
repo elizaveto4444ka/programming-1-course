@@ -1,2 +1,7 @@
 name = input()
 print("Привет,", name)
+r = input()
+one = input()
+two = input()
+three = input()
+print(one+r+two+r+three)
